@@ -1,0 +1,6 @@
+course = input("course name:")
+student = input("student name:")
+nickname = input("nickname:")
+grade = input("input 1-100 number:")
+pythonExpert = input("input True or False:")
+print ( "course:" , course, "\n","student:" , student , "\n","nickname:" , nickname, "\n","grade:" , grade, "\n","python_expert:" , pythonExpert  )
